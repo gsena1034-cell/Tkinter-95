@@ -4,4 +4,5 @@ Uma modificação do tkinter para uma interface parecida com a do Windows 95
 Com o codigo aberto, para vocês entenderem como funciona, os recursos usados
 nesta Lib foram retirada de: https://comp3interactive.itch.io/retro-windows-gui?download
 
-Está Lib será atualizada com o tempo, ainda
+Essa Lib será atualizada com o tempo
+Talvez seja colocada no repositorio PyPI
