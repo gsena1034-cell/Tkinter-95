@@ -5,4 +5,5 @@ Com o codigo aberto, para vocês entenderem como funciona, os recursos usados
 nesta Lib foram retirada de: https://comp3interactive.itch.io/retro-windows-gui?download
 
 Essa Lib será atualizada com o tempo
+
 Talvez seja colocada no repositorio PyPI
